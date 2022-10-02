@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Palash90.
 - 👀 I’m interested in interesting technologies.
-- 🌱 I’m currently learning C and Algorithms.
+- 🌱 I’m currently learning Rust and Algorithms.
 - 💞️ I’m looking to collaborate on anything challenging and interesting.
 - 📫 How to reach me: admin@palashkantikundu.in
 
