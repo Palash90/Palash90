@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Palash90.
-- 👀 I’m interested in interesting technologies.
-- 🌱 I’m currently learning Rust and Algorithms.
+- 👀 I’m interested in latest technologies.
+- 🌱 I’m currently learning Rust and Go.
 - 💞️ I’m looking to collaborate on anything challenging and interesting.
 - 📫 How to reach me: palash.kanti.kundu.90@gmail.com
 
