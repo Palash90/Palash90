@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Palash90. A passionate Software Engineer and Curious Learner.
 - 👀 I’m interested in latest technologies.
-- 🌱 I’m currently learning Rust and Go.
+- 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on anything challenging and interesting.
   
 <!---
